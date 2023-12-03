@@ -1,4 +1,11 @@
-﻿#include <iostream>
+﻿/*
+* 작 성 일: 2023-12-02
+* 문재 번호: 11478
+* 문제 제목: 서로 다른 부분 문자열의 개수
+* 문제 링크: https://www.acmicpc.net/problem/11478
+* 풀이 방법:
+*/
+#include <iostream>
 #include <string>
 #include <unordered_set>
 
