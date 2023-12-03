@@ -1,4 +1,11 @@
-﻿#include <iostream>
+﻿/*
+* 작 성 일: 2023-12-02
+* 문재 번호: 14425
+* 문제 제목: 문자열 집합
+* 문제 링크: https://www.acmicpc.net/problem/14425
+* 풀이 방법:
+*/
+#include <iostream>
 #include <unordered_set>
 
 using namespace std;
